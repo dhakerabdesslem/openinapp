@@ -13,7 +13,7 @@ npm i openinapp
 ```
 const { openinapp } = require('openinapp');
 
-const tiktokLink = openinapp('https://www.tiktok.com/@someUser');
-console.log(tiktokLink);
+const newlink = openinapp('https://www.tiktok.com/@someUser');
+console.log(newlink);
 
-window.location.href = tiktokLink;
+window.location.href = newlink;
