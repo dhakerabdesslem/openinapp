@@ -11,11 +11,9 @@ npm i openinapp
 ## Usage
 
 ```
-const { generateDeeplinkFromURL } = require('social-deeplink');
+const { openinapp } = require('openinapp');
 
-// Example for generating TikTok deep link
-const tiktokLink = generateDeeplinkFromURL('https://www.tiktok.com/@someUser');
+const tiktokLink = openinapp('https://www.tiktok.com/@someUser');
 console.log(tiktokLink);
 
-// Redirect to the deep link
 window.location.href = tiktokLink;
