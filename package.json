@@ -1,5 +1,5 @@
 {
-  "name": "social-deeplink",
+  "name": "openinapp",
   "version": "1.0.0",
   "description": "Generate deep links for social media platforms that open in the app or fallback to the browser.",
   "main": "index.js",
