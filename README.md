@@ -25,7 +25,7 @@ Copier le code
 ```
 const { openinapp } = require('openinapp');
 
-const newlink = openinapp('https://www.tiktok.com/@someUser');
+const newlink = openinapp('https://www.tiktok.com/@dhakerabdesslem');
 console.log(newlink);
 
 window.location.href = newlink;
