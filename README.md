@@ -6,8 +6,11 @@ Generate deep links for social media platforms (Facebook, Twitter, Instagram, Ti
 
 ```
 npm i openinapp
+```
 
 ## Usage
+
+```
 const { generateDeeplinkFromURL } = require('social-deeplink');
 
 // Example for generating TikTok deep link
