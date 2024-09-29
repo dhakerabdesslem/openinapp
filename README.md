@@ -1,5 +1,5 @@
 
-## Social Deeplink
+## OPEN IN APP
 
 Generate deep links for popular social media platforms (Facebook, Twitter, Instagram, TikTok, LinkedIn, YouTube) that open directly in the app on mobile devices. If the app is not installed, the links will automatically open in the default browser.
 
