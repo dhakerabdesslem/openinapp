@@ -1,0 +1,16 @@
+{
+  "name": "social-deeplink",
+  "version": "1.0.0",
+  "description": "Generate deep links for social media platforms that open in the app or fallback to the browser.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "keywords": ["deeplink", "social-media", "tiktok", "facebook", "npm", "url", "link"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/social-deeplink"
+  }
+}
