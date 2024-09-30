@@ -14,7 +14,7 @@ You can install the package via npm:
 
 Copier le code
 ```
-npm install social-deeplink
+npm install open-in-app
 ```
 ## Usage
 Generate a Deep Link from a URL
@@ -22,7 +22,7 @@ You can generate a deep link by passing a URL, and the package will automaticall
 
 Copier le code
 ```
-const { openinapp } = require('openinapp');
+const { openinapp } = require('open-in-app');
 
 const newlink = openinapp('https://www.tiktok.com/@dhakerabdesslem');
 console.log(newlink);
