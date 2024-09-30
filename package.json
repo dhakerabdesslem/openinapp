@@ -1,5 +1,5 @@
 {
-  "name": "openinapp",
+  "name": "openinapp1",
   "version": "1.1.0",
   "description": "Generate deep links for social media platforms that open in the app or fallback to the browser.",
   "main": "index.js",
